@@ -1,6 +1,3 @@
-console.log('hello');
-console,log('hello world');
-console.log('hello');
-console,log('hello world');
-console.log('hello');
-console,log('hello world');
+console.log('world');
+console.log('world');
+console.log('world');
